@@ -1,1 +1,3 @@
-function takeANumber ()
+function takeANumber (number, name) {
+  return string()
+}
