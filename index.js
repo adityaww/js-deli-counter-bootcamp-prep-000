@@ -4,5 +4,6 @@ function takeANumber(line, name) {
 }
 
 function nowServing(katzDeliLine) {
-  if.katzDeliLine
+  if.katzDeliLine.length < 0;
+  
 }
