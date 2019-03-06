@@ -20,6 +20,6 @@ function currentLine(katzDeliLine) {
   for (let i = 0; i < katzDeliLine; i++) {
     message += `${i + 1}. ${katzDeliLine[i]},`
   }
-  
+  return message.slice(0,-2)
 }
 }
